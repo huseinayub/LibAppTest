@@ -39,3 +39,5 @@ implementation project(':Plugin2-debug')
 
 implementation project(':Plugin3-debug')
 androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
+implementation project(':Plugin1-debug')
+androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
